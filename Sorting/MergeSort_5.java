@@ -37,7 +37,8 @@ class  MergeSort_5
             }
             else{
                 System.out.print(arr1[i]+" ");
-                i++;j++;
+                i++;
+		j++;
             }
         }    
     } 
