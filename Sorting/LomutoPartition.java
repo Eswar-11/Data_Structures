@@ -4,11 +4,11 @@ class LomutoPartition
     public static void main(String[] args) 
     {
         Scanner sc=new Scanner(System.in);
-	      System.out.print("length: ");
-	      int n=sc.nextInt();
-	      int[] arr=new int[n];
-	      System.out.print("Array: ");                    
-	      for(int b=0; b<n; b++)
+	System.out.print("length: ");
+	int n=sc.nextInt();
+	int[] arr=new int[n];
+	System.out.print("Array: ");                    
+	for(int b=0; b<n; b++)
         {
             arr[b]=sc.nextInt();
         }
