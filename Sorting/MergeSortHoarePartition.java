@@ -1,5 +1,5 @@
 import java.util.*;
-class HoarePartition
+class MergeSortHoarePartition
 { 
     public static void main(String[] args) 
     {
