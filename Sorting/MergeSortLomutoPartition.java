@@ -1,5 +1,5 @@
 import java.util.*;
-class LomutoPartition
+class MergeSortLomutoPartition
 { 
     public static void main(String[] args) 
     {
