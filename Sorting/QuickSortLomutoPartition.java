@@ -1,5 +1,5 @@
 import java.util.*;
-class QuickSort_using_Lomuto_Partition
+class QuickSortLomutoPartition
 { 
     public static void main(String[] args) 
     {
